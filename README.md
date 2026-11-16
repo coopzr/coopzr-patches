@@ -35,17 +35,23 @@ The `main` branch produces stable releases. The `dev` branch produces pre-releas
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
+> **[v1.0.0-dev.1](https://github.com/coopzr/coopzr-patches/releases/tag/v1.0.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+<details open>
+<summary>📦 Waze&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
 
-<!-- Do not modify this section by hand. The patch list is generated when release.yml creates a new release.
+**Package name:** `com.waze`
 
-     If you wish for the patches list to be collapsed, then remove the word 'EXPANDED' from the comment tag above.
+**🎯 Supported versions:**
 
-     If you wish to manually keep this list updated then remove the PATCHES_START and PATCHES_END
-     comment blocks entirely. -->
+| 5.27.5.0 |
+| :---: |
 
-| Patch       | Description                                                   |
-|-------------|---------------------------------------------------------------|
-| Placeholder | Does nothing. Disabled by default. Used to verify the bundle loads. |
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Placeholder](#placeholder) | Does nothing. Verifies the patch bundle loads in Morphe Manager. |  |
+
+</details>
 
 <!-- PATCHES_END -->
 
